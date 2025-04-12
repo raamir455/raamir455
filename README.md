@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @raamir455
-- 👀 I’m interested in computer 
-- 🌱 I’m currently learning machine learning 
+- 👋 Hi, I'm raamir455
+- 👀 I’m interested in programming special competitive programming (:
+- 🌱 I’m currently programming java applications 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: ...
